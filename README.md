@@ -1,2 +1,5 @@
-# Bookbot
-Bookbot is my first project!
+main(
+with open("books/frankenstein.txt) as f:
+    file_contents = f.read()
+)
+return main()
